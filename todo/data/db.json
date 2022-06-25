@@ -3,17 +3,22 @@
     {
       "id": 1,
       "checked": false,
-      "name": "milk"
+      "name": "learn react"
     },
     {
       "id": 2,
-      "checked": false,
-      "name": "bread"
+      "checked": true,
+      "name": "buy groceries"
     },
     {
       "id": 3,
       "checked": false,
-      "name": "coke"
+      "name": "hangout with friends"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "name": "Read a book"
     }
   ]
 }
